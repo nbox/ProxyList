@@ -1,3 +1,3 @@
 # Proxy List
-Public proxy
+Public HTTPS proxy list
 
