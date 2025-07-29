@@ -1,5 +1,4 @@
 # Proxy List
-Fast public HTTPS proxies list
 
 102.177.176.246:80
 103.169.142.18:80
