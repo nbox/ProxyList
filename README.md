@@ -1,7 +1,7 @@
 # Proxy List
 Fast public HTTPS proxies list
 
-Updated at: 2025-09-21 06:23 UTC
+Updated at: 2025-09-22 06:26 UTC
 
 45.8.211.118:80
 102.177.176.202:80
